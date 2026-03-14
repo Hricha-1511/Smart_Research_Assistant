@@ -2,8 +2,6 @@ streamlit
 langchain-openai 
 langchain
 openai
-duckduckgo-search
-langchain-community
 ddgs
 chromadb 
 langchain-community
